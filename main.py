@@ -6,7 +6,7 @@ import string
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "PUT_YOUR_NEW_TOKEN"
+TOKEN = "8641166858:AAEoDuDqeYSfU9hTjyzgHzYSvQXaxe5oww4"
 ADMIN_ID = 7705209352
 UPI_ID = "niteshextema@fam"
 
